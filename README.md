@@ -9,5 +9,4 @@ Visitor case:
 make VisitorRun
 
 AspectJ case: 
-Replace ASPECTJRT path to point to the installed AspectJ
-make aspectJRun
+Replace ASPECTJRT path to point to the installed AspectJ; make aspectJRun
